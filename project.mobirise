@@ -50,6 +50,7 @@
     "mcSmartCart": {
       "currency": "USD"
     },
+    "publishChangesOnly": true,
     "uniqCompNum": 3,
     "versionPublish": "5.9.17"
   },
