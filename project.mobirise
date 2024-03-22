@@ -86,7 +86,8 @@
         "meta_descr": "– Sielu representa la capacidad de volar y expandirse, apoyando a reconectar con el propósito del corazón, a comprender el poder de nuestro cuerpo energético y a reconectar con nuestra esencia divina que viene a esta tierra para disfrutar la experiencia humana.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-sielu-156x240.png"
       },
       "components": [
         {
